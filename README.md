@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -85,4 +86,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
