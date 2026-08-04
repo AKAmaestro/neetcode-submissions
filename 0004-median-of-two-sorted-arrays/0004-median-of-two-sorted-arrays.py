@@ -3,13 +3,13 @@ class Solution:
         nums1=nums1+nums2
         nums1.sort()
         l= len(nums1)
-        mid=int(l/2)
+        # mid=int(l/2)
         # print(mid)
         # print(l/2)
         # print(l)
         # print(mid*2)
 
         if l%2==0:
-            return((nums1[mid]+nums1[mid-1])/2)
+            return((nums1[int(l/2)]+nums1[int(l/2)-1])/2)
         else: 
-            return(nums1[mid])
+            return(nums1[int(l/2)])
