@@ -3,9 +3,7 @@ class Solution:
         nums3=nums1+nums2
         nums3.sort()
         median=0
-        m, n = len(nums1), len(nums2)
-
-        mid=(m+n)
+        mid=(len(nums1)+ len(nums2))
         if mid%2==0:
             median=(nums3[int(mid/2)]+nums3[int(mid/2)-1])/2
         else: 
