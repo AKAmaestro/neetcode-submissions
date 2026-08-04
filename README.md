@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -90,4 +91,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
