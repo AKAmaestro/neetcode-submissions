@@ -5,7 +5,6 @@ class Solution:
         median=0
         mid=(len(nums1)+ len(nums2))
         if mid%2==0:
-            median=(nums3[int(mid/2)]+nums3[int(mid/2)-1])/2
+            return((nums3[int(mid/2)]+nums3[int(mid/2)-1])/2)
         else: 
-            median=nums3[int(mid/2)]
-        return median
+            return(nums3[int(mid/2)])
