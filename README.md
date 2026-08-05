@@ -87,10 +87,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +101,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AKAmaestro/neetcode-submissions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
